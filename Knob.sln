@@ -5,6 +5,8 @@ VisualStudioVersion = 15.0.28307.271
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "KnobUI", "KnobUI\KnobUI.csproj", "{0E5A5081-679D-418E-B0EB-418722CDC925}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "KnobUC", "KnobUC\KnobUC.csproj", "{55B5A718-5CF5-4C11-ADD5-5C148485F1B0}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -15,6 +17,10 @@ Global
 		{0E5A5081-679D-418E-B0EB-418722CDC925}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{0E5A5081-679D-418E-B0EB-418722CDC925}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{0E5A5081-679D-418E-B0EB-418722CDC925}.Release|Any CPU.Build.0 = Release|Any CPU
+		{55B5A718-5CF5-4C11-ADD5-5C148485F1B0}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{55B5A718-5CF5-4C11-ADD5-5C148485F1B0}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{55B5A718-5CF5-4C11-ADD5-5C148485F1B0}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{55B5A718-5CF5-4C11-ADD5-5C148485F1B0}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
