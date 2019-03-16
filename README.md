@@ -1,14 +1,13 @@
-<a href="https://github.com/prkrmx/Knob"><img src="https://1drv.ms/u/s!AhCikrBQ5nENlcQXCpWanJipNDU3-w" title="WPF C# Knob Control" alt="WPF C# Knob Control"></a>
+<a href="https://github.com/prkrmx/Knob"><img src="https://onedrive.live.com/?cid=0D71E650B092A210&id=D71E650B092A210%21352790&parId=D71E650B092A210%21352845&o=OneUp" title="WPF C# Knob Control" alt="WPF C# Knob Control"></a>
 # WPF C# Knob Control
 > Very simple and stylish knob-like gauges created using WPF C#
-
-[![Github Issues](http://githubbadges.herokuapp.com/badges/badgerbadgerbadger/issues.svg?style=flat-square)](https://github.com/prkrmx/Knob/issues) [![Pending Pull-Requests](http://githubbadges.herokuapp.com/badges/badgerbadgerbadger/pulls.svg?style=flat-square)](https://github.com/prkrmx/Knob/pulls) [![License](http://img.shields.io/:license-mit-blue.svg?style=flat-square)](https://github.com/prkrmx/Knob/blob/master/LICENSE) 
 
 ## Introduction
 This project provides a simple knob-like gauges user control that can be incorporated into your projects.
 
 ## Features
-<img src="https://1drv.ms/u/s!AhCikrBQ5nENlcQV7X1y4X8xABXwRw" title="WPF C# Knob Control" alt="WPF C# Knob Control">
+<img src="https://onedrive.live.com/?cid=0D71E650B092A210&id=D71E650B092A210%21352788&parId=D71E650B092A210%21352845&o=OneUp" title="WPF C# Knob Control" alt="WPF C# Knob Control">
+<img src="https://onedrive.live.com/?cid=0D71E650B092A210&id=D71E650B092A210%21352787&parId=D71E650B092A210%21352845&o=OneUp" title="WPF C# Knob Control" alt="WPF C# Knob Control">
 
 ## Contact 
 
@@ -19,7 +18,6 @@ This project provides a simple knob-like gauges user control that can be incorpo
 
 ## License
 
-[![License](http://img.shields.io/:license-mit-blue.svg?style=flat-square)](http://badges.mit-license.org)
+[![License](http://img.shields.io/:license-mit-blue.svg?style=flat-square)](https://github.com/prkrmx/Knob/blob/master/LICENSE) 
 
-- **[MIT license](https://github.com/prkrmx/Knob/blob/master/LICENSE)**
-- Copyright © 2019 Max Parker
+Copyright © 2019 Max Parker
