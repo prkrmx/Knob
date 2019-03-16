@@ -1,4 +1,4 @@
-<a href="https://github.com/prkrmx/Knob"><img src="https://onedrive.live.com/?cid=0D71E650B092A210&id=D71E650B092A210%21352790&parId=D71E650B092A210%21352845&o=OneUp" title="WPF C# Knob Control" alt="WPF C# Knob Control"></a>
+<a href="https://github.com/prkrmx/Knob"><img src="https://user-images.githubusercontent.com/7262108/54481156-c65f9780-4839-11e9-9eea-803fb68e0ea1.png" title="WPF C# Knob Control" alt="WPF C# Knob Control"></a>
 # WPF C# Knob Control
 > Very simple and stylish knob-like gauges created using WPF C#
 
@@ -6,8 +6,8 @@
 This project provides a simple knob-like gauges user control that can be incorporated into your projects.
 
 ## Features
-<img src="https://onedrive.live.com/?cid=0D71E650B092A210&id=D71E650B092A210%21352788&parId=D71E650B092A210%21352845&o=OneUp" title="WPF C# Knob Control" alt="WPF C# Knob Control">
-<img src="https://onedrive.live.com/?cid=0D71E650B092A210&id=D71E650B092A210%21352787&parId=D71E650B092A210%21352845&o=OneUp" title="WPF C# Knob Control" alt="WPF C# Knob Control">
+<img src="https://user-images.githubusercontent.com/7262108/54481133-a5974200-4839-11e9-9180-673817c5b87e.png" title="WPF C# Knob Control" alt="WPF C# Knob Control">
+<img src="https://user-images.githubusercontent.com/7262108/54481148-bba50280-4839-11e9-86b9-c3498715a5f7.png" title="WPF C# Knob Control" alt="WPF C# Knob Control">
 
 ## Contact 
 
