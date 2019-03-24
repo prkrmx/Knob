@@ -9,6 +9,7 @@ This project provides a simple knob-like gauges user control that can be incorpo
 <img src="https://user-images.githubusercontent.com/7262108/54481133-a5974200-4839-11e9-9180-673817c5b87e.png" title="WPF C# Knob Control" alt="WPF C# Knob Control">
 <img src="https://user-images.githubusercontent.com/7262108/54481148-bba50280-4839-11e9-86b9-c3498715a5f7.png" title="WPF C# Knob Control" alt="WPF C# Knob Control">
 
+![ezgif com-resize](https://user-images.githubusercontent.com/7262108/54876346-0a910000-4e17-11e9-9253-ba817b05f854.gif)
 ## Contact 
 
  - [Github](https://github.com/prkrmx) 
